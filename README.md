@@ -1,6 +1,18 @@
-# 💫 About Me:
-## About Me<br><br>🛠️ **I’m currently working on**<br>Full-stack mobile development, building production-ready applications across mobile, backend, APIs, and supporting services. I enjoy turning ideas into reliable and scalable products.<br><br>🤝 **I’m looking to collaborate on**<br>Mobile, Python, Machine Learning, and MLOps projects. I’m always interested in working with developers who enjoy solving real-world problems and building meaningful products.<br><br>🆘 **I’m looking for help with**<br>Anything that helps me become a stronger engineer—especially System Design, scalable architectures, backend systems, cloud infrastructure, performance, and production best practices. I’m always open to feedback and mentorship.<br><br>🌱 **I’m currently learning**<br>System Design and scalable distributed systems, while continuing to explore Python, Machine Learning, MLOps, backend engineering, cloud technologies, and modern software architecture.<br><br>💬 **Ask me about**<br>Mobile development, full-stack engineering, Python, backend development, APIs, ML, MLOps, System Design, or anything I’m currently building and learning.<br><br>⚡ **Fun fact**<br>I love learning by building. I enjoy experimenting with new technologies, understanding how things work under the hood, breaking things, debugging them, and turning those lessons into better solutions.
+💫 About Me:
 
+🔭 I'm currently working as a Full-Stack Mobile Developer, building production-ready mobile applications and working across mobile, backend, APIs, and supporting services.
+
+🚀 Building scalable applications using Flutter, Dart, Python, FastAPI, GraphQL, Docker, AWS, and modern software engineering practices.
+
+👯 I'm looking to collaborate on Mobile Development, Python, Machine Learning, MLOps, Open Source, and projects focused on solving real-world problems.
+
+🤝 I'm looking for help with System Design, Scalable Architectures, Distributed Systems, Cloud Infrastructure, and production-level engineering practices.
+
+🌱 I'm currently learning System Design, Distributed Systems, Cloud Architecture, and deepening my knowledge of Machine Learning and MLOps.
+
+💬 Ask me about Flutter, Dart, Mobile Development, Python, FastAPI, GraphQL, Backend Development, Machine Learning, MLOps, and anything I'm currently building or learning.
+
+⚡ Fun fact: I enjoy learning by building—experimenting with new technologies, understanding how things work under the hood, breaking things, debugging them, and turning those lessons into better solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanak-gupta-/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kanakgupta814) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/kanak10_18) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20952554/kanak-gupt) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iamkanakg) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Kanak1018) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanakgupta814@gmail.com) 
